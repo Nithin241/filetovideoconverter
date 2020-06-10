@@ -7,19 +7,6 @@ This is a File To Video Converter Bot!
 Support Group :
             @NRBotsZ
 """
-quote=True,
-        reply_markup=InlineKeyboardMarkup(
-            [
-                [
-                    InlineKeyboardButton('📌  Support Group', url='https://t.me/NRBotsZ'),
-                    InlineKeyboardButton('🔖  Projects Channel', url='https://t.me/NRBotsZ')
-                ],
-                [
-                    InlineKeyboardButton('▪  MY Master', url='https://t.me/NithinOfficial_Admin')
-                ]
-            ]
-        )
-    )
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
